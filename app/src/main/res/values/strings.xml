@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="hellobutterknife">Hello Butterknife TextBox</string>
+    <string name="googledata">http://www.google.com</string>
+    <string name="pureactivity">Start Pure Activity</string>
+    <string name="startservices">Start Service</string>
+    <string name="overlayservicestring">Start Overlay Service</string>
+</resources>
